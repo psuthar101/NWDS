@@ -1,1 +1,1 @@
-# NWDS
+# Northwestern University-MSDS Program
